@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div id="gallery">
+    {% for image, recipe in images %}
+    <a href="/{{ recipe.id }}">
+        <img src="/{{ recipe.id }}/thumbnail_{{ image.name }}" alt="{{ recipe.title }}">
+        <div class="image-title">{{ recipe.title }}</div>
+    </a>
+    {% endfor %}
+</div>
+
+{% endblock %}

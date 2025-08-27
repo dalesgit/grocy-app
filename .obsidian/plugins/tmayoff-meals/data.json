@@ -2,7 +2,7 @@
   "recipeDirectory": "Meals",
   "mealPlanNote": "Meal Plan",
   "shoppingListNote": "Shopping List",
-  "recipeFormat": "RecipeMD",
+  "recipeFormat": "Meal Plan",
   "shoppingListIgnore": [
     "salt",
     "pepper",

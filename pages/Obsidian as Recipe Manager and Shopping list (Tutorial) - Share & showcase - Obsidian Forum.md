@@ -4,7 +4,7 @@ tags: []
 source: https://forum.obsidian.md/t/obsidian-as-recipe-manager-and-shopping-list-tutorial/40799
 author: 
 ---
-
+ 
 # Obsidian as Recipe Manager and Shopping list (Tutorial) - Share & showcase - Obsidian Forum
 
 > ## Excerpt

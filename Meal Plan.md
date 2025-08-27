@@ -4,5 +4,6 @@
 ## Tuesday
 ## Wednesday
 ## Thursday
+- [[Unbelievable Chicken]]
 ## Friday
 ## Saturday

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6f4ceb2c888161bc",
+        "id": "384c3a10e72b22b6",
         "type": "tabs",
         "children": [
           {
-            "id": "cad4098689eefdb9",
+            "id": "b8c3f3f609a50606",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-08-27.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-08-27"
+              "title": "New tab"
             }
           }
         ]
@@ -176,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +187,15 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "cad4098689eefdb9",
+  "active": "b8c3f3f609a50606",
   "lastOpenFiles": [
+    "2025-08-28.md",
+    "pages/recipe-links.md",
+    "Recipes/Creamy Spinach &amp; Artichoke Chicken Skillet\n.md",
+    "Recipes/French Onion Cabbage Soup.md",
+    "Recipes/Orange Chicken &amp; Broccoli Skillet.md",
+    "Recipes/Chicken-Potpie Twice-Baked Potatoes.md",
+    "Recipes/Chicken Tortellini Soup.md",
     "2025-08-27.md",
     "Recipes/Cattle Ranch Casserole.md",
     "Recipes/Bacon Cheeseburger Soup.md",
@@ -211,11 +215,6 @@
     "Meals/recipes05/english_recipes/almond_crescends.md",
     "Meals/recipes04/brunch_deviled-eggs.md",
     "Meals/recipes04/breakfast_blueberry-pancakes.md",
-    "Meals/recipes03/Hummus.md",
-    "Meals/recipes01/salzig/cajunspice.md",
-    "Meals/recipes01/salzig/Baguette.md",
-    "Meals/recipes.rixx.de/ausprobieren/zucchinifalafel.md",
-    "Meals/recipes.rixx.de/dips/aioli.md",
-    "Meals/recipes.rixx.de/ausprobieren/nougat-taler.md"
+    "Meals/recipes03/Hummus.md"
   ]
 }

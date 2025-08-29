@@ -1,0 +1,18 @@
+- Alan says on Hulu they watched an apocalyptic show "2073". #names Allan and Claire
+- Recipes #recipes
+  collapsed:: true
+	- **14:21** [[recipes]]:  https://www.simplyrecipes.com/one-ingredient-pasta-sauce-upgrade-worcestershire-11793026
+	- **14:22** [[recipes]]:  https://www.eatingwell.com/cozy-fall-dinner-recipes-11798145 These are saved in the vault.
+	- **14:23** [[recipes]]:  https://www.wsj.com/arts-culture/books/the-last-untamed-writer-in-america-6d2a129f
+	- **14:23** [[recipes]]:  https://www.southernliving.com/hot-pants-chili-11783996
+	- **14:24** [[recipes]]:  https://www.wsj.com/arts-culture/books/the-enlightenment-review-waves-of-new-thinking-de18b58b
+	- **14:29** [[recipes]]:  https://www.eatingwell.com/best-high-protein-15-minute-lunch-recipes-11798059
+	- **14:37** [[recipes]]:  https://www.eatingwell.com/popular-lunch-recipes-heart-health-11795257
+	- **14:47** [[recipes]]:  https://www.eatingwell.com/labor-day-salad-recipes-11797050
+	- **14:50** [[recipes]]:  https://www.eatingwell.com/best-new-gut-healthy-diabetes-friendly-recipes-11798009
+	- **14:53** [[recipes]]:  https://www.eatingwell.com/high-fiber-bean-skillet-dinner-recipes-11797207
+- History and thought links #history
+	- **14:41** [[recipes]]:  https://greekreporter.com/2025/08/21/great-escape-ten-thousand-ancient-greek-warriors-fled-persia/
+	- **14:45** [[recipes]]:  https://greekreporter.com/2025/08/27/ancient-greek-archimedes-death-ray-recreated/
+	- **14:42** [[recipes]]:  https://greekreporter.com/2025/08/23/philoctetes-ancient-greek-tragedy-virtue-rationalism/
+-

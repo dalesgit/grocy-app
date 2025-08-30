@@ -5,14 +5,14 @@ created: 2022-01-17T22:02:08.000-05:00
 author: 
 url: https://www.allrecipes.com/recipe/286342/loaded-bacon-cheeseburger-potato-soup/ 
 ---
-
+[]()
 # [Bacon Cheeseburger Soup](https://www.allrecipes.com/recipe/286342/loaded-bacon-cheeseburger-potato-soup/)
 
 This bacon cheeseburger soup with cubes of potato, ground beef, and veggies is topped with Cheddar cheese and crispy bacon for a rich and filling meal.
 
 ![Bacon Cheeseburger Soup](https://www.allrecipes.com/thmb/Z7v5QxKeEe9j5qtOQR0nTz-1rwY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/286342-loaded-bacon-cheeseburger-potato-soup-VAT-003-Beauty-4x3-81cfe3525f1348eb9abc7ec5d96af6f7.jpg)
 
-### Ingredients
+# Ingredients
 
 - 1 pound ground beef
 - 4 bacon
@@ -29,7 +29,7 @@ This bacon cheeseburger soup with cubes of potato, ground beef, and veggies is t
 - 1 teaspoon dried parsley
 - salt and freshly ground black pepper to taste
 
-### Instructions
+# Directions
 
 - Gather all ingredients.
 - Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain, discard grease, and set aside.

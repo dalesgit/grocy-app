@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ac11eeeeb5c0ce12",
+        "id": "0da6462b37917d14",
         "type": "tabs",
         "children": [
           {
-            "id": "dd69096ad0490885",
+            "id": "dbb96bfc2d449096",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meals/Chicken Tortellini Soup.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chicken Tortellini Soup"
-            }
-          },
-          {
-            "id": "88270caf1a56146b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meal Plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Meal Plan"
-            }
-          },
-          {
-            "id": "283a690d9475e1b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meal Plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Meal Plan"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,34 +187,36 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "283a690d9475e1b1",
+  "active": "fad0596d1555b70b",
   "lastOpenFiles": [
-    "Meals/Chicken Tortellini Soup.md",
-    "Meals/Bacon Cheeseburger Soup.md",
+    "Meals/Alabama Chicken Stew.md",
+    "Meals/Hungarian Mushroom Soup.md",
+    "Meals/Soups/Vegetarian Pozole Verde (Hominy Soup).md",
+    "Meals/Tuna Salad & Tomato Sandwich.md",
+    "Meals/Soups/Mom's Butter Bean Soup.md",
+    "Meals/Soups/Lentil Soup.md",
+    "Meals/Soups/Hearty Chicken and Rice Soup.md",
+    "Meals/Soups/Cheeseburger Soup.md",
+    "Meals/Soups/Chicken Tortellini Soup.md",
+    "Meals/Mom&.md",
+    "Meals/Soups/Quick and Easy Taco Soup .md",
+    "Meals/Soups/Bacalao a la Vizcaina (Basque-Style Codfish Stew).md",
+    "Meals/Soups/Bacon Cheeseburger Soup.md",
+    "Meals/Soups/Italian Penicillin Soup.md",
+    "Meals/Cattle Ranch Casserole.md",
+    "Meals/Soups/Nordstrom Tomato Basil Soup.md",
+    "Meals/Soups/French Onion Cabbage Soup.md",
+    "Meals/Poppy Seed Chicken Casserole.md",
+    "Meals/Orange Chicken &amp; Broccoli Skillet.md",
+    "Meals/Nordstrom&#39;s Tomato Basil Soup.md",
     "Meals/Unbelievable Chicken.md",
     "Meal Plan.md",
+    "assets/grocy-pics/stock-overview.png",
+    "Meals/Soups",
     "Recipes/The Only High-Protein Veggie Sandwich Formula You Need.md",
     "Recipes/Tuna Salad &amp; Tomato Sandwich.md",
     "2025-08-28.md",
     "pages/recipe-links.md",
-    "Recipes/Creamy Spinach &amp; Artichoke Chicken Skillet\n.md",
-    "Recipes/French Onion Cabbage Soup.md",
-    "Recipes/Orange Chicken &amp; Broccoli Skillet.md",
-    "Recipes/Chicken-Potpie Twice-Baked Potatoes.md",
-    "2025-08-27.md",
-    "Recipes/Cattle Ranch Casserole.md",
-    "Recipes/Nordstrom&.md",
-    "Recipes/Nordstrom&#39;s Tomato Basil Soup.md",
-    "Recipes",
-    "pages/recipes-meal-planning.md",
-    "Recipes/Unbelievable Chicken.md",
-    "pages/RecipeMD — RecipeMD 5.0.0 documentation.md",
-    "pages/Obsidian as Recipe Manager and Shopping list (Tutorial) - Share & showcase - Obsidian Forum.md",
-    "Meals/recipes11/Fried_Rice.md",
-    "Meals/recipes05/english_recipes/potato_goulash.md",
-    "Meals/recipes05/english_recipes/mushroom_stroganoff.md",
-    "Meals/recipes05/english_recipes/blueberry_muffins.md",
-    "Meals/recipes05/english_recipes/beans_and_rice.md",
-    "Meals/recipes05/english_recipes/almond_crescends.md"
+    "Recipes"
   ]
 }

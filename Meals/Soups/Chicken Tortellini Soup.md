@@ -1,9 +1,9 @@
 ---
-tags: 
-- recipe 
+tags:
+  - recipe
 created: 2024-10-03T15:59:28.563-04:00
-author: 
-url: https://www.eatingwell.com/chicken-tortellini-soup-8717552 
+author:
+url: https://www.eatingwell.com/chicken-tortellini-soup-8717552
 ---
 
 # [Chicken Tortellini Soup](https://www.eatingwell.com/chicken-tortellini-soup-8717552)

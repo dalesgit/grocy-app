@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6a1a4b5a6ebaa718",
+        "id": "3766af7f57107390",
         "type": "tabs",
         "children": [
           {
-            "id": "62a1784020ccaa9a",
+            "id": "6d4669b2ee38b06e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/grocy-pics/stock-overview.png"
+                "file": "Meals/Instant Pot Tuscan Bean and Sausage Soup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "stock-overview"
+              "icon": "lucide-file",
+              "title": "Instant Pot Tuscan Bean and Sausage Soup"
             }
           }
         ]
@@ -189,8 +191,10 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "62a1784020ccaa9a",
+  "active": "6d4669b2ee38b06e",
   "lastOpenFiles": [
+    "Meals/Instant Pot Tuscan Bean and Sausage Soup.md",
+    "assets/grocy-pics/stock-overview.png",
     "Shopping List.md",
     "Meal Plan.md",
     "Meals/Best Butternut Squash Soup Ever.md",
@@ -218,9 +222,7 @@
     "Meals/Soups/Spicy Black Bean Vegetable Soup.md",
     "Lentil Soup.md",
     "Garden fresh tomato soup.md",
-    "vegetable black bean soup.md",
     "templates",
-    "assets/grocy-pics/stock-overview.png",
     "Meals/Soups",
     "Recipes"
   ]

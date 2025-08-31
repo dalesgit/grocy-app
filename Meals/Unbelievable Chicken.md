@@ -12,7 +12,7 @@ Your taste buds will love this exciting blend of brown sugar, cider vinegar, gar
 
 ![Unbelievable Chicken](https://www.allrecipes.com/thmb/vE01JWD-n6XHFkaZj5IS4OSXL5A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/30522unbelievable-chickenlutzflcat4x3-a66f97fdabf443489e7cef519f47f638.jpg)
 
-### Ingredients
+# Ingredients
 
 - 0.25 cup cider vinegar
 - 3 tablespoons prepared coarse-ground mustard
@@ -25,7 +25,7 @@ Your taste buds will love this exciting blend of brown sugar, cider vinegar, gar
 - 6 tablespoons olive oil
 - 6 skinless, boneless chicken breast halves
 
-### Instructions
+# Directions
 
 - Mix cider vinegar, mustard, garlic, lime juice, lemon juice, brown sugar, salt, and pepper together in a large glass or ceramic bowl. Whisk in olive oil. Add chicken and toss evenly to coat. Cover, and marinate in the refrigerator for 8 hours to overnight.
 - Preheat an outdoor grill for high heat.

@@ -12,7 +12,7 @@ This copycat Nordstrom’s tomato basil soup, a favorite from the department sto
 
 ![Nordstrom's Tomato Basil Soup](https://www.allrecipes.com/thmb/cemkEhQz9Hk9mZP8zlL5S2Jlqx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/nordstrom-s-tomato-basil-soup-recipe-8769886Christina4x3-c1f98408759c4de5b28f9172a95dc0cd.jpg)
 
-### Ingredients
+# Ingredients
 
 - 2 Tablespoons olive oil
 - 1 cup finely chopped carrots
@@ -32,7 +32,7 @@ This copycat Nordstrom’s tomato basil soup, a favorite from the department sto
 - 1/2 cup freshly grated Parmesan cheese
 - fresh basil leaves (optional)
 
-### Instructions
+# Directions
 
 - For soup, heat olive oil in a 3 to 4 quart pot over medium heat. Add carrots and onions, and cook, stirring frequently, until vegetables are softened, 5 to 7 minutes.
 - Add dried basil, salt, and black pepper, and stir for about 1 minute. Add tomatoes and their juices along with vegetable broth. Stir, bring to a boil, then reduce heat and slowly simmer 20 to 25 minutes, uncovered. Add minced fresh basil and cream and simmer about 5 minutes more.

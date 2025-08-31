@@ -7,4 +7,5 @@
 - [[Unbelievable Chicken]]
 ## Friday
 ## Saturday
+- [[Cattle Ranch Casserole]]
 - [[Bacon Cheeseburger Soup]]

@@ -12,7 +12,7 @@ This cattle ranch casserole is a beefy, cheesy, tomato and chile-rich casserole 
 
 ![Cattle Ranch Casserole](https://www.allrecipes.com/thmb/vaytfrKfE0npzGplVdfWkN5KYq0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11777940-Cattle-Ranch-Casserole-DDMFS-Beauty-4x3-8d9d1fcf79384e188f4a690adb5a75b0.jpg)
 
-### Ingredients
+# Ingredients
 
 - 2 	cups Bisquick baking mix
 - 1 1/4 	cups whole milk
@@ -29,7 +29,7 @@ This cattle ranch casserole is a beefy, cheesy, tomato and chile-rich casserole 
 - 1 (10 ounce) cans diced tomatoes with Hatch green chiles, drained
 - 1/2	cup chopped cilantro or green onions for garnish
 
-### Instructions
+# Directions
 
 - Preheat the oven to 350 degrees F (180 degrees C). Lightly coat a 9x13-inch baking dish with cooking spray.
 - Stir baking mix, milk, and 1 tablespoon oil together in a bowl. Spread evenly in the prepared baking dish. 

@@ -12,7 +12,7 @@ This hearty soup combines tender rotisserie chicken, pillowy tortellini and plen
 
 ![Chicken Tortellini Soup](https://www.eatingwell.com/thmb/r043w-I9FUwoU63hdlbeH9nQyAA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chicken-Tortellini-soup-Beauty1-11989_preview_maxWidth_4000_maxHeight_4000_ppi_300_quality_100-4d7c7ec3b7234d3b9e047e78dcd7483b.jpg)
 
-### Ingredients
+# Ingredients
 
 - 2 tablespoons unsalted butter
 - 1 medium yellow onion, finely chopped (about 1 cup)
@@ -30,7 +30,7 @@ This hearty soup combines tender rotisserie chicken, pillowy tortellini and plen
 - 1 cup frozen green peas
 - 1 cup heavy cream
 
-### Instructions
+# Directions
 
 - Melt 2 tablespoons butter in a large Dutch oven over medium-high heat. Add onion, carrots, celery and garlic; cook, stirring occasionally, until softened and translucent, about 3 minutes. Add 1 tablespoon tarragon, 1½ teaspoons garlic-and-herb seasoning, ¼ teaspoon pepper and ⅛ teaspoon salt; cook, stirring constantly, until fragrant, about 1 minute.
 - Stir in 5 cups broth; cover and bring to a boil over high heat. Reduce heat to low and stir in 1 (9-ounce) package tortellini. Cover and cook, undisturbed, until al dente, about 5 minutes.

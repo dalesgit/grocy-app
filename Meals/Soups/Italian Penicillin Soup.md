@@ -12,7 +12,7 @@ Italian Penicillin, also called Sick Day Soup or Chicken Pastina Soup, is a rich
 
 ![Italian Penicillin Soup](https://www.allrecipes.com/thmb/iv1agqwSLukHA9IXjsROgtGksBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8751324-Sick-Day-Soup-ddmfs-3x4-052-0e0b89bebdea41b7a2334b2a30f15f0a.jpg)
 
-### Ingredients
+# Ingredients
 
 - 8 cups lower-sodium chicken broth
 - 1 medium (8 ounce) sweet onion, coarsely chopped (about 2 cups)
@@ -27,7 +27,7 @@ Italian Penicillin, also called Sick Day Soup or Chicken Pastina Soup, is a rich
 - 2 cups (8 ounce) shredded rotisserie chicken (from 1 [3 pound] chicken)
 - Fresh flat-leaf parsley leaves
 
-### Instructions
+# Directions
 
 - Gather all ingredients.
 - Bring broth, onion, carrots, celery, garlic, and salt to a boil in a large saucepan or small Dutch oven over high; reduce heat to medium-low, and simmer until vegetables are softened, about 10 minutes. Using a slotted spoon, transfer vegetables and 1 cup of broth to a blender.

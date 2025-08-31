@@ -12,7 +12,7 @@ This protein-packed orange chicken and broccoli skillet is a vibrant dish that c
 
 ![Orange Chicken & Broccoli Skillet](https://www.eatingwell.com/thmb/iAOxj-f13Baic7LpdItMV5YawG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Orange-Chicken--Broccoli-Skillet-Beauty-12025_preview_maxWidth_4000_maxHeight_4000_ppi_300_quality_100-26f5bdaf128d4d0d80ceef5aee43b01a.jpg)
 
-### Ingredients
+# Ingredients
 
 - 1 tablespoon canola oil
 - 6 (6-ounce) bone-in, skin-on chicken thighs, patted dry
@@ -29,7 +29,7 @@ This protein-packed orange chicken and broccoli skillet is a vibrant dish that c
 - ¼ cup thinly sliced scallions
 - 1 tablespoon toasted sesame seeds
 
-### Instructions
+# Directions
 
 - Preheat oven to 350°F. Heat 1 tablespoon oil in a large ovenproof skillet over medium-high heat. Season chicken with ¼ teaspoon salt. Arrange the chicken in the skillet skin-side down; cook, undisturbed, until the skin is golden brown and crisp, 8 to 10 minutes. Transfer the chicken, skin-side up, to a large plate. Remove the skillet from the heat; reserve 1 tablespoon of the drippings in the skillet (discard remaining drippings).
 - Meanwhile, whisk 1 tablespoon orange zest, ¾ cup orange juice, 2 tablespoons soy sauce, 2 teaspoons sugar, 2 teaspoons ginger, 1 teaspoon cornstarch, ½ teaspoon salt and ¼ teaspoon pepper in a medium bowl until combined. Pour ½ cup of the mixture into a small saucepan.

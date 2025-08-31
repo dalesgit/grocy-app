@@ -1,3 +1,13 @@
+# Week of August 31st
+## Sunday
+- Sean/Jolene?
+## Monday
+- AA meeting
+## Tuesday
+## Wednesday
+## Thursday
+## Friday
+## Saturday
 # Week of August 24th
 ## Sunday
 ## Monday

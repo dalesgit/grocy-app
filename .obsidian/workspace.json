@@ -11,10 +11,12 @@
             "id": "62a1784020ccaa9a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "assets/grocy-pics/stock-overview.png"
+              },
+              "icon": "lucide-image",
+              "title": "stock-overview"
             }
           }
         ]
@@ -189,6 +191,8 @@
   },
   "active": "62a1784020ccaa9a",
   "lastOpenFiles": [
+    "Shopping List.md",
+    "Meal Plan.md",
     "Meals/Best Butternut Squash Soup Ever.md",
     "Meals/Fast Chicken Soup Base.md",
     "Meals/Hearty Minestrone Soup.md",
@@ -207,7 +211,6 @@
     "Meals/Poppy Seed Chicken Casserole.md",
     "Meals/Salmon with Brown Sugar Glaze.md",
     "Meals/Chicken-Potpie Twice-Baked Potatoes.md",
-    "Shopping List.md",
     "Meals/Soups/Chicken Tortellini Soup.md",
     "Meals/Soups/Quick and Easy Taco Soup .md",
     "2025-08-28.md",
@@ -216,7 +219,6 @@
     "Lentil Soup.md",
     "Garden fresh tomato soup.md",
     "vegetable black bean soup.md",
-    "Meals/Soups/Fresh Tomato Soup.md",
     "templates",
     "assets/grocy-pics/stock-overview.png",
     "Meals/Soups",

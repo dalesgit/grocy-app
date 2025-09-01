@@ -1,6 +1,6 @@
 # Week of August 31st
 ## Sunday
-- Sean/Jolene?
+- Sean/Jolene?: *Cracker Barrel* Pot Roast
 ## Monday
 - AA meeting
 ## Tuesday

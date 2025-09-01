@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "12231aeabe3a64ce",
+        "id": "b79fb45cf4899c09",
         "type": "tabs",
         "children": [
           {
-            "id": "73396d10ad56bd41",
+            "id": "af61432b563d7e2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-08-31.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-08-31"
+              "title": "New tab"
             }
           }
         ]
@@ -191,14 +187,15 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "73396d10ad56bd41",
+  "active": "af61432b563d7e2b",
   "lastOpenFiles": [
     "2025-08-31.md",
+    "Meals/Soups/Instant Pot Chicken Tortilla Soup.md",
+    "Meal Plan.md",
     "Meals/Soups/Best Butternut Squash Soup Ever.md",
     "Meals/Soups/Instant Pot Tuscan Bean and Sausage Soup.md",
     "assets/grocy-pics/stock-overview.png",
     "Shopping List.md",
-    "Meal Plan.md",
     "Meals/Best Butternut Squash Soup Ever.md",
     "Meals/Fast Chicken Soup Base.md",
     "Meals/Hearty Minestrone Soup.md",
@@ -221,7 +218,6 @@
     "Meals/Soups/Quick and Easy Taco Soup .md",
     "2025-08-28.md",
     "README.md",
-    "Meals/Soups/Spicy Black Bean Vegetable Soup.md",
     "templates",
     "Meals/Soups",
     "Recipes"

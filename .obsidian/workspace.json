@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7f517b86ce4233b7",
+        "id": "b86b7ef327df8f9b",
         "type": "tabs",
         "children": [
           {
-            "id": "17073b12a08425cd",
+            "id": "408372ccd3fc2086",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,8 +187,9 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "17073b12a08425cd",
+  "active": "408372ccd3fc2086",
   "lastOpenFiles": [
+    "Meals/Dinner/Easy Fried Rice.md",
     "Meals/Dinner/Unbelievable Chicken.md",
     "Meals/Make Ahead Breakfast Casserole.md",
     "Meals/Dinner/Easy Slow Cooker Cheesy Potato Soup with Ham.md",
@@ -218,7 +219,6 @@
     "Meals/Dinner/Orange Chicken & Broccoli Skillet.md",
     "Meals/Dinner/Cattle Ranch Casserole.md",
     "Meals/Lunch/Tuna Salad & Tomato Sandwich.md",
-    "Meals/Dinner/Poppy Seed Chicken Casserole.md",
     "templates",
     "Meals/Soups",
     "Recipes"

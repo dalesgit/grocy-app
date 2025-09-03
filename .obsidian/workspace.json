@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b79fb45cf4899c09",
+        "id": "7f517b86ce4233b7",
         "type": "tabs",
         "children": [
           {
-            "id": "af61432b563d7e2b",
+            "id": "17073b12a08425cd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,8 +187,16 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "af61432b563d7e2b",
+  "active": "17073b12a08425cd",
   "lastOpenFiles": [
+    "Meals/Dinner/Unbelievable Chicken.md",
+    "Meals/Make Ahead Breakfast Casserole.md",
+    "Meals/Dinner/Easy Slow Cooker Cheesy Potato Soup with Ham.md",
+    "Meals/Dinner",
+    "Meals/Dinner/Make-Ahead Manicotti.md",
+    "Meals/Dinner/Frank's Favorite Slow-Cooker Thai Chicken.md",
+    "Meals/Dinner/Hot Tamale Pie.md",
+    "Meals/Frank&#39;s Favorite Slow-Cooker Thai Chicken.md",
     "2025-08-31.md",
     "Meals/Soups/Instant Pot Chicken Tortilla Soup.md",
     "Meal Plan.md",
@@ -207,17 +215,10 @@
     "Meals/Lunch/The Only High-Protein Veggie Sandwich Formula You Need.md",
     "Meals/Lunch",
     "Untitled",
-    "Meals/Orange Chicken & Broccoli Skillet.md",
-    "Meals/Cattle Ranch Casserole.md",
-    "Meals/Unbelievable Chicken.md",
+    "Meals/Dinner/Orange Chicken & Broccoli Skillet.md",
+    "Meals/Dinner/Cattle Ranch Casserole.md",
     "Meals/Lunch/Tuna Salad & Tomato Sandwich.md",
-    "Meals/Poppy Seed Chicken Casserole.md",
-    "Meals/Salmon with Brown Sugar Glaze.md",
-    "Meals/Chicken-Potpie Twice-Baked Potatoes.md",
-    "Meals/Soups/Chicken Tortellini Soup.md",
-    "Meals/Soups/Quick and Easy Taco Soup .md",
-    "2025-08-28.md",
-    "README.md",
+    "Meals/Dinner/Poppy Seed Chicken Casserole.md",
     "templates",
     "Meals/Soups",
     "Recipes"

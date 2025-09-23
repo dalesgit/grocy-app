@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "e7f69e3330504e5a",
+    "id": "838f30ea9e2fd515",
     "type": "split",
     "children": [
       {
-        "id": "c3cb46680d7e949c",
+        "id": "7c06dd326d8289f0",
         "type": "tabs",
         "children": [
           {
-            "id": "f392a00b919e1d26",
+            "id": "7235c54704120747",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,11 +23,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "35b3ba7aa8f26eca",
+    "id": "e2165f74cdc827b4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5f9f81b74e9fba4e",
+        "id": "3a0567c83359c959",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +40,7 @@
         }
       },
       {
-        "id": "135c60c79f33bcb5",
+        "id": "c52a4ad1e13d2ce4",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -57,7 +57,7 @@
         }
       },
       {
-        "id": "2dda9a173c6adf41",
+        "id": "e1999d4c586e60e1",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -72,7 +72,7 @@
         }
       },
       {
-        "id": "79d0cc6ce851f616",
+        "id": "5ec4ff286e80ee56",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -85,18 +85,17 @@
     "currentTab": 0
   },
   "right": {
-    "id": "cdf6d4e1b0e04b7b",
+    "id": "2fcac52080dee0d2",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d1213191fea9a441",
+        "id": "93c527e6a2646e88",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Poppy Seed Chicken Casserole.md",
             "collapseAll": false,
-            "extraContext": true,
+            "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
@@ -108,7 +107,7 @@
         }
       },
       {
-        "id": "eec386f4d386c99b",
+        "id": "738bfbdf35aefc1d",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -121,7 +120,7 @@
         }
       },
       {
-        "id": "b5462ac8346aaddc",
+        "id": "68092ee7f5565d39",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -135,7 +134,7 @@
         }
       },
       {
-        "id": "e0ae799ac02ba7f0",
+        "id": "47afefbcd842f091",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -145,7 +144,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,14 +158,6 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "f392a00b919e1d26",
-  "lastOpenFiles": [
-    "2025-08-28.md",
-    "Meals/Soups/Fast Chicken Soup Base.md",
-    "Meals/Cattle Ranch Casserole.md",
-    "Meals/Lunch/The Only High-Protein Veggie Sandwich Formula You Need.md",
-    "Recipes/Poppy Seed Chicken Casserole.md",
-    "Recipes/Quick and Easy Taco Soup .md",
-    "Recipes/Salmon with Brown Sugar Glaze.md"
-  ]
+  "active": "7235c54704120747",
+  "lastOpenFiles": []
 }

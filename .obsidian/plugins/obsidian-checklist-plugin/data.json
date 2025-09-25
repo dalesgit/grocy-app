@@ -1,0 +1,18 @@
+{
+  "todoPageName": "",
+  "showChecked": true,
+  "showAllTodos": true,
+  "showOnlyActiveFile": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "pantry/*",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [],
+  "_hiddenTags": [
+    "todo"
+  ]
+}

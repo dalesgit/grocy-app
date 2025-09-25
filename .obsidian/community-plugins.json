@@ -5,5 +5,7 @@
   "calendar",
   "cooklang-obsidian",
   "recipe-grabber",
-  "extract-url"
+  "extract-url",
+  "obsidian-tasks-plugin",
+  "obsidian-checklist-plugin"
 ]

@@ -1,2 +1,7 @@
-- [ ] cooked chix tenders
+---
+tags:
+  - pantry
+---
+
+- [ ] cooked chix tenders 
 - [ ] 

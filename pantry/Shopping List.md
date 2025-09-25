@@ -1,3 +1,7 @@
+---
+tags:
+  - pantry
+---
 - [x] margarine 4 tablespoons 
 - [x] chopped onion 0.75 cup 
 - [x] chopped carrots 0.5 cup 

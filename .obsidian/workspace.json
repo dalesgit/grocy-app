@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "73737b2de4bf3982",
+        "id": "4be2e1862e4c3d87",
         "type": "tabs",
         "children": [
           {
-            "id": "53092959d8ca5ca3",
+            "id": "ed38f9eb4dc16a12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pantry/Shopping List.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Shopping List"
+              "title": "New tab"
             }
           }
         ]
@@ -200,20 +196,21 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "fad0596d1555b70b",
+  "active": "ed38f9eb4dc16a12",
   "lastOpenFiles": [
+    "Meals/Soups/Hearty Minestrone Soup.md",
+    "Meal Plan.md",
+    "Shopping List.md",
+    "pantry/Shopping List.md",
     "pantry/spices.md",
     "pantry/freezer.md",
-    "Meals/Soups/Hearty Minestrone Soup.md",
     "pantry/refrigerator.md",
     "pantry/storage.md",
     "pages/recipe-links.md",
     "journal/2025-09-25.md",
     "Meals/Dinner/Unbelievable Chicken.md",
     "Untitled.base",
-    "pantry/Shopping List.md",
     "Meals/Soups/Vegetarian Pozole Verde (Hominy Soup).md",
-    "Meal Plan.md",
     "README.md",
     "journal/2025-08-27.md",
     "Meals/tuscan tomato soup.md",
@@ -229,7 +226,6 @@
     "Meals/Dinner/Frank's Favorite Slow-Cooker Thai Chicken.md",
     "Meals/Dinner/Hot Tamale Pie.md",
     "Meals/Frank&#39;s Favorite Slow-Cooker Thai Chicken.md",
-    "Meals/Soups/Instant Pot Chicken Tortilla Soup.md",
     "assets/grocy-pics/stock-overview.png",
     "Meals/Lunch",
     "Untitled",

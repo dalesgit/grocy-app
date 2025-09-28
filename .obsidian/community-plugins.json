@@ -7,5 +7,6 @@
   "recipe-grabber",
   "extract-url",
   "obsidian-tasks-plugin",
-  "obsidian-checklist-plugin"
+  "obsidian-checklist-plugin",
+  "obsidian-git"
 ]

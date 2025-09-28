@@ -1,12 +1,22 @@
-# Week of September 14th
+# Week of September 28th
 ## Sunday
+- [[Hearty Minestrone Soup]]
 ## Monday
 ## Tuesday
 ## Wednesday
 ## Thursday
 ## Friday
 ## Saturday
-- [[Hearty Minestrone Soup]]
+# Week of September 14th
+## Sunday
+
+## Monday
+## Tuesday
+## Wednesday
+## Thursday
+## Friday
+## Saturday
+
 # Week of August 31st
 ## Sunday
 - Sean/Jolene?: *Cracker Barrel* Pot Roast

@@ -5,7 +5,7 @@ created: 1999-04-10T12:15:53.000-04:00
 author: 
 url: https://www.allrecipes.com/recipe/13187/minestrone-soup-i/ 
 ---
-
+ ,
 # [Hearty Minestrone Soup](https://www.allrecipes.com/recipe/13187/minestrone-soup-i/)
 
 This tasty minestrone soup recipe is a hearty combination of fresh veggies, cabbage, potatoes, beans, and macaroni pasta, topped with Parmesan cheese.

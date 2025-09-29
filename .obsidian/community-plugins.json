@@ -8,5 +8,6 @@
   "extract-url",
   "obsidian-tasks-plugin",
   "obsidian-checklist-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-read-it-later"
 ]

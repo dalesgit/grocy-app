@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4be2e1862e4c3d87",
+        "id": "083528bb50b17edf",
         "type": "tabs",
         "children": [
           {
-            "id": "ed38f9eb4dc16a12",
+            "id": "ecd869882960423d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-09-29.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-09-29"
+              "title": "New tab"
             }
           }
         ]
@@ -203,10 +199,10 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "ed38f9eb4dc16a12",
+  "active": "ecd869882960423d",
   "lastOpenFiles": [
-    "ReadItLater Inbox/The 1-Ingredient Swap That Makes Every Soup Taste Better.md",
     "journal/2025-09-29.md",
+    "ReadItLater Inbox/The 1-Ingredient Swap That Makes Every Soup Taste Better.md",
     "ReadItLater Inbox",
     "Meals/Soups/Hearty Minestrone Soup.md",
     "Meal Plan.md",

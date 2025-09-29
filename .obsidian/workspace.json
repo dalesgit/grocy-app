@@ -11,10 +11,14 @@
             "id": "ecd869882960423d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Meals/Soups/Hearty Minestrone Soup.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hearty Minestrone Soup"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3aa6a3a5fd7c21f7",
@@ -201,11 +206,12 @@
   },
   "active": "ecd869882960423d",
   "lastOpenFiles": [
+    "Meals/Soups/Jamie's Minestrone Soup.md",
+    "Meals/Soups/Hearty Minestrone Soup.md",
+    "Meal Plan.md",
     "journal/2025-09-29.md",
     "ReadItLater Inbox/The 1-Ingredient Swap That Makes Every Soup Taste Better.md",
     "ReadItLater Inbox",
-    "Meals/Soups/Hearty Minestrone Soup.md",
-    "Meal Plan.md",
     "Shopping List.md",
     "pantry/Shopping List.md",
     "pantry/spices.md",
@@ -229,7 +235,6 @@
     "Meals/Dinner/Easy Slow Cooker Cheesy Potato Soup with Ham.md",
     "Meals/Dinner",
     "Meals/Dinner/Make-Ahead Manicotti.md",
-    "Meals/Dinner/Frank's Favorite Slow-Cooker Thai Chicken.md",
     "assets/grocy-pics/stock-overview.png",
     "Meals/Lunch",
     "Untitled",

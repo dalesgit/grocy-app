@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3aa6a3a5fd7c21f7",
@@ -182,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 397.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +195,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "recipe-grabber:Recipe Grabber": false
+      "recipe-grabber:Recipe Grabber": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ed38f9eb4dc16a12",

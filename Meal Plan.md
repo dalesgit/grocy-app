@@ -1,3 +1,12 @@
+# Week of October 5th
+## Sunday
+## Monday
+## Tuesday
+## Wednesday
+- [[My Mom's Hamburger and Potato Soup]]
+## Thursday
+## Friday
+## Saturday
 # Week of September 28th
 ## Sunday
 - [[Hearty Minestrone Soup]]

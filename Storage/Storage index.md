@@ -1,0 +1,7 @@
+- [[Canned Goods]]
+- [[Rice and Grains]]
+- [[Spice Cabinet]]
+- [[Freezer]]
+- [[Refrigerator]]
+- [[Baking]]
+- [[Pantry]]

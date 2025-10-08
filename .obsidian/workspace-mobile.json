@@ -142,12 +142,24 @@
           "icon": "calendar-with-checkmark",
           "title": "Calendar"
         }
+      },
+      {
+        "id": "63cf0dbbd8ba1aaf",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo List"
+        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -158,6 +170,6 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "7235c54704120747",
+  "active": "63cf0dbbd8ba1aaf",
   "lastOpenFiles": []
 }

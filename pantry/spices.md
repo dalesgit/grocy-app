@@ -3,3 +3,81 @@ tags:
   - pantry
 ---
 - [ ] cinnamon
+- regular salt
+- Kosher salt
+- Pepper shaker
+- Almond extract
+- Anise extract
+- Vanilla extract
+- Sliced pepperoni
+- Bay leaves
+- Rosemary
+- Garam masala
+- Dillweed
+- Nutmeg
+- Sage
+- Fennel
+- Zaatar
+- Ground mustard
+- Basil,
+- Oregano
+- Paprika
+- Time
+- Bay leaves
+- Chinese five spice
+- Cardamom
+- Chipotle
+- Cayenne
+- Italian seasoning
+- Cumin
+- Coriander
+- Turmeric
+- Cream of tartar
+- Poultry seasoning
+- Celery seed
+- Caraway seeds
+- Justice space
+
+---
+
+- Cinnamon sticks 
+- Fenugreek seeds 
+- cardamom
+- Herb de Provonce
+- Lemon pepper
+- Celery seed
+- Curry powder
+- Chili powder
+- Cumin seed
+- Everything bagel
+- Fancy clothes
+- Vietnamese cinnamon
+- Ground cinnamon
+- Ground cinnamon
+- Onion powder
+- Ground sumac
+- Seasoned salt
+- Garlic salt
+- Garlic powder
+- Ground ginger
+- Crushed red pepper
+- Garlic powder
+- Sesame seed
+- Black peppercorns
+- White pepper
+- Allspice
+
+---
+
+- Chopped garlic
+- Onion soup
+- Matzo ball mix
+- Tapioca
+- Chili powder
+- Paprika
+- Beef bouillon
+- Ground cumin
+- Chicken bouillon
+- Cayenne pepper
+- Dried Cranberries
+- Chicken, bouillon jar

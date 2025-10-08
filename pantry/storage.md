@@ -2,3 +2,24 @@
 tags:
   - pantry
 ---
+- Pasta
+- Corned beef
+- Onions
+- Bean sprouts
+- Canned tuna
+- Refried beans
+- Tomato paste
+- Condensed milk
+- Coconut milk
+- Spam
+- Cream of mushroom soup
+- Tomato sauce
+- Cream of chicken soup
+- Sweet corn
+- Stewed tomatoes
+- Pumpkin pie filling
+- Ramen
+- Various pastas
+- Crushed tomato
+- Evaporated milk
+- Rice spaghetti

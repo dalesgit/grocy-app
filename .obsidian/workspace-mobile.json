@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7c06dd326d8289f0",
+        "id": "a12445f0e90c29a2",
         "type": "tabs",
         "children": [
           {
-            "id": "7235c54704120747",
+            "id": "698ea367a733c597",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pantry/storage.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "storage"
             }
           }
         ]
@@ -94,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "pantry/storage.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -142,6 +147,16 @@
           "icon": "calendar-with-checkmark",
           "title": "Calendar"
         }
+      },
+      {
+        "id": "6b34f995982cdf85",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo List"
+        }
       }
     ],
     "currentTab": 0
@@ -158,6 +173,12 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "7235c54704120747",
-  "lastOpenFiles": []
+  "active": "698ea367a733c597",
+  "lastOpenFiles": [
+    "pantry/spices.md",
+    "pantry/freezer.md",
+    "pantry/refrigerator.md",
+    "Meals/Soups/Hearty Minestrone Soup.md",
+    "Meal Plan.md"
+  ]
 }

@@ -157,8 +157,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -177,12 +177,22 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "73328a4bcc621a92",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -198,12 +208,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "recipe-grabber:Recipe Grabber": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
+      "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "0e0f80d574c91a3d",
+  "active": "73328a4bcc621a92",
   "lastOpenFiles": [
     "Storage/Rice and Grains.md",
     "Storage/Storage index.md",

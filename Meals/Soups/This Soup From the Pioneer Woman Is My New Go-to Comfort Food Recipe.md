@@ -11,7 +11,7 @@ description: "This chicken tortellini soup recipe from the Pioneer Woman is an e
 tags:
   - "clippings"
 ---
-![chicken tortellini soup in bowls](https://www.allrecipes.com/thmb/7TwkPpuvXqyI0AOZt3zug7aGbbE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ar-pioneer-woman-Chix-Tortellini-Soup-4x3-f0e1781d768449e2be32f70edf76827b.jpg)
+  ![chicken tortellini soup in bowls](https://www.allrecipes.com/thmb/7TwkPpuvXqyI0AOZt3zug7aGbbE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ar-pioneer-woman-Chix-Tortellini-Soup-4x3-f0e1781d768449e2be32f70edf76827b.jpg)
 
 Credit: Sara Haas
 

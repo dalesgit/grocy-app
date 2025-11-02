@@ -3,38 +3,61 @@ tags:
   - pantry
 ---
 
-- [ ] cooked chix tenders 
-
-- Blueberries
-- Soup bags
-- Shrimp
-- Shrimp 
-- meatballs
-- Meatballs
-- Chicken wings
-- Chicken wings
-- Breast strips
-- Pan Cheese
-- Naan
-- Pasta fag soup
-- Pork gravy
-- Pork fried rice
-- Pork tenderloin
-- Peppers in adobo
-- Pork tenders
-- Pork chops
-- Thick boneless pork
-- Salmon
-- Chicken thigh marinated
-- Broccoli, florettes, 
-- green peas
-- Cranberries
-- Green beans
-- Crushed tomatoes
-- SeedsSeeds
-- Strawberries
-- Bread
-- Soup
-- Bananas
-- Banana bread
-- Mochi
+- [x] cooked chix tenders ✅ 2025-11-02
+- [x] Blueberries ✅ 2025-11-02
+- [x] Soup ✅ 2025-11-02
+- [x] soup ✅ 2025-11-02
+- [x] Shrimp ✅ 2025-11-0
+- [x] Sweet potato fries ✅ 2025-11-02
+- [x] Banana bread ✅ 2025-11-02
+- [ ] Shrimp 
+- [x] Butter ✅ 2025-11-02
+- [x] Naan ✅ 2025-11-02
+- [x] Pasta sauce ✅ 2025-11-02
+- [x] Empanada dough ✅ 2025-11-02
+- [x] Bread ✅ 2025-11-02
+- [ ] meatballs
+- [x] Meatballs ✅ 2025-11-02
+- [x] Chicken wings ✅ 2025-11-02
+- [x] Pork fried rice ✅ 2025-11-02
+- [x] Chicken wings ✅ 2025-11-02
+- [ ] Breast strips
+- [x] Paneer ✅ 2025-11-02
+- [x] Naan ✅ 2025-11-02
+- [x] Naan ✅ 2025-11-02
+- [x] naan ✅ 2025-11-02
+- [x] Pasta fag soup ✅ 2025-11-02
+- [x] Pork gravy ✅ 2025-11-02
+- [x] Pork tender cooked ✅ 2025-11-02
+- [ ] Pork fried rice
+- [x] Pork tenderloin ✅ 2025-11-02
+- [x] Ground beef ✅ 2025-11-02
+- [ ] Peppers in adobo
+- [ ] Pork tenders
+- [ ] Pork chops
+- [x] Thick boneless pork ✅ 2025-11-02
+- [x] Salmon ✅ 2025-11-02
+- [ ] Chicken thigh marinated
+- [x] Broccoli, florettes, ✅ 2025-11-02
+- [x] Broccoli ✅ 2025-11-02
+- [x] Pasta fag stuff ✅ 2025-11-02
+- [x] green peas ✅ 2025-11-02
+- [x] Cranberries ✅ 2025-11-02
+- [x] Green beans ✅ 2025-11-02
+- [x] Corn ✅ 2025-11-02
+- [x] Crushed tomatoes ✅ 2025-11-02
+- [x] Cherries ✅ 2025-11-02
+- [x] SeedsSeeds ✅ 2025-11-02
+- [ ] Strawberries
+- [ ] Bread
+- [ ] Soup
+- [x] Air fry meatloaf ✅ 2025-11-02
+- [x] Spinach feta pie ✅ 2025-11-02
+- [x] Stuffed scallops ✅ 2025-11-02
+- [x] Hamburger buns ✅ 2025-11-02
+- [x] Butter ✅ 2025-11-02
+- [x] Hamburger buns ✅ 2025-11-02
+- [x] Mini bars ✅ 2025-11-02
+- [ ] Bananas
+- [ ] Banana bread
+- [ ] Mochi

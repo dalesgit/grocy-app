@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fa9941e02bdf72cf",
+        "id": "f396dc82fb69faf7",
         "type": "tabs",
         "children": [
           {
-            "id": "82faeb16dd3c9597",
+            "id": "85d274af4c53ff53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Complete Checklist of Pantry, Refrigerator and Freezer Essentials.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "A Complete Checklist of Pantry, Refrigerator and Freezer Essentials"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,11 +210,20 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "82faeb16dd3c9597",
+  "active": "85d274af4c53ff53",
   "lastOpenFiles": [
+    "Shopping List.md",
+    "pantry-inventory/Shopping List.md",
+    "home-inventory/windows.md",
+    "journal/2025-09-29.md",
+    "Meals/Soups/Jamie's Minestrone Soup.md",
+    "journal/2025-10-08.md",
+    "journal/2025-10-10.md",
     "Untitled.base",
     "Meal Plan.md",
+    "pantry-inventory/freezer.md",
     "pantry-inventory/Storage 2.md",
+    "A Complete Checklist of Pantry, Refrigerator and Freezer Essentials.md",
     "Clippings/7 Soups You Should Be Making, Not Buying.md",
     "Meals/Soups/This Soup From the Pioneer Woman Is My New Go-to Comfort Food Recipe.md",
     "Clippings",
@@ -227,22 +233,14 @@
     "Meals/Soups/Hamburger Potato Soup.md",
     "Meals/Soups/Creamy Potato &amp; Hamburger Soup.md",
     "Meals/Soups/tuscan tomato soup.md",
-    "journal/2025-10-08.md",
     "Meals/Soups/My Mom's Hamburger and Potato Soup.md",
     "Meals/Dinner/Hot Tamale Pie.md",
-    "Shopping List.md",
     "Storage/Storage index.md",
     "Meals/My Mom&#39;s Hamburger and Potato Soup.md",
     "Storage/Rice and Grains.md",
     "pantry/Shopping List.md",
-    "Meals/Soups/Jamie's Minestrone Soup.md",
     "Meals/Soups/Hearty Minestrone Soup.md",
-    "journal/2025-09-29.md",
-    "ReadItLater Inbox/The 1-Ingredient Swap That Makes Every Soup Taste Better.md",
     "ReadItLater Inbox",
-    "pantry/spices.md",
-    "pantry/freezer.md",
-    "pantry/refrigerator.md",
     "Meals/Dinner",
     "assets/grocy-pics/stock-overview.png",
     "Meals/Lunch",

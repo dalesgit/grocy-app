@@ -13,14 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Meals/Soups/My Mom's Hamburger and Potato Soup.md",
+=======
                 "file": "pantry-inventory/freezer.md",
+>>>>>>> 8fcbe95cf0bd62034e4b0bd145f757dce3df711f
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "My Mom's Hamburger and Potato Soup"
+=======
               "title": "freezer"
+>>>>>>> 8fcbe95cf0bd62034e4b0bd145f757dce3df711f
             }
           }
         ]

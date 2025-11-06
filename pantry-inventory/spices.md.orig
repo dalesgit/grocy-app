@@ -1,4 +1,10 @@
---- tags: - pantry --- <<<<<<< HEAD - [ ] cinnamon =======
+---
+tags:
+  - pantry
+---
+<<<<<<< HEAD
+- [ ] cinnamon
+=======
 - [x] cinnamon
 - [x] regular salt
 - [x] Kosher salt
@@ -78,4 +84,4 @@
 - [x] Cayenne pepper
 - [x] Dried Cranberries
 - [x] Chicken, bouillon jar
-
+>>>>>>> 8fcbe95cf0bd62034e4b0bd145f757dce3df711f

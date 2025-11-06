@@ -2,6 +2,8 @@
 tags:
   - pantry
 ---
+<<<<<<< HEAD
+=======
 - [x] Pasta
 - [x] Corned beef
 - [x] Onions
@@ -23,3 +25,4 @@ tags:
 - [x] Crushed tomato
 - [x] Evaporated milk
 - [x] Rice spaghetti
+>>>>>>> 8fcbe95cf0bd62034e4b0bd145f757dce3df711f

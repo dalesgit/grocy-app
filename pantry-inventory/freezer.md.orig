@@ -3,7 +3,10 @@ tags:
   - pantry
 ---
 
+<<<<<<< HEAD
 - [ ] cooked chix tenders 
+- [ ] 
+=======
 - [x] cooked chix tenders 
 - [x] Blueberries 
 - [x] Soup 
@@ -62,3 +65,4 @@ tags:
 - [x] Bananas
 - [x] Banana bread
 - [x] Mochi
+>>>>>>> 8fcbe95cf0bd62034e4b0bd145f757dce3df711f

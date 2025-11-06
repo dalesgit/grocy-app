@@ -2,6 +2,8 @@
 tags:
   - pantry
 ---
+<<<<<<< HEAD
+=======
 - [x] Mozzarella cheese
 - [x] Shredded cheese
 - [x] Parmesan cheese
@@ -59,3 +61,4 @@ tags:
 - [x] Mayonnaise
 - [x] Blue cheese dressing
 - [x] Soy sauce
+>>>>>>> 8fcbe95cf0bd62034e4b0bd145f757dce3df711f

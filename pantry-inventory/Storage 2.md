@@ -1,0 +1,18 @@
+
+- [x] chia seeds
+- [x] Flaxseed, meal
+- [x] Oatmeal
+- [x] Popcorn
+- [x] Peanut butter
+- [x] Honey
+- [x] Apple cider
+- [x] Vinegar
+- [x] Red wine vinegar
+- [x] Worcestershire sauce
+- [x] Cooking wine
+- [x] Capers
+- [x] Toasted sesame  oil
+- [x] Rice vinegar
+- [x] Liquid smoke
+- [x] White wine vinegar
+- 

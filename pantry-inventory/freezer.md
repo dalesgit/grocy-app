@@ -21,7 +21,7 @@ tags:
 - [x] Chicken wings ✅ 2025-11-02
 - [x] Pork fried rice ✅ 2025-11-02
 - [x] Chicken wings ✅ 2025-11-02
-- [ ] Breast strips
+- [ ] Chx Breast strips
 - [x] Paneer ✅ 2025-11-02
 - [x] Naan ✅ 2025-11-02
 - [x] Naan ✅ 2025-11-02
@@ -49,7 +49,7 @@ tags:
 - [x] Cherries ✅ 2025-11-02
 - [x] SeedsSeeds ✅ 2025-11-02
 - [ ] Strawberries
-- [ ] Bread
+- [x] Bread ✅ 2025-11-06
 - [ ] Soup
 - [x] Air fry meatloaf ✅ 2025-11-02
 - [x] Spinach feta pie ✅ 2025-11-02

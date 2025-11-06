@@ -1,5 +1,5 @@
 
-- chia seeds
+- [ ] chia seeds
 - Flaxseed, meal
 - Oatmeal
 - Popcorn

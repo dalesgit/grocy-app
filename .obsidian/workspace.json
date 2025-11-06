@@ -11,10 +11,28 @@
             "id": "85d274af4c53ff53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Shopping List.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Shopping List"
+            }
+          },
+          {
+            "id": "4922ab15abf20756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pantry-inventory/freezer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "freezer"
             }
           }
         ]
@@ -49,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "task",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,7 +229,13 @@
   },
   "active": "85d274af4c53ff53",
   "lastOpenFiles": [
+    "pantry-inventory/freezer.md",
     "Shopping List.md",
+    "pantry-inventory/Storage 2.md",
+    "Storage/Pantry.md",
+    "Storage/Freezer.md",
+    "Storage/Baking.md",
+    "A Complete Checklist of Pantry, Refrigerator and Freezer Essentials.md",
     "pantry-inventory/Shopping List.md",
     "home-inventory/windows.md",
     "journal/2025-09-29.md",
@@ -221,9 +244,6 @@
     "journal/2025-10-10.md",
     "Untitled.base",
     "Meal Plan.md",
-    "pantry-inventory/freezer.md",
-    "pantry-inventory/Storage 2.md",
-    "A Complete Checklist of Pantry, Refrigerator and Freezer Essentials.md",
     "Clippings/7 Soups You Should Be Making, Not Buying.md",
     "Meals/Soups/This Soup From the Pioneer Woman Is My New Go-to Comfort Food Recipe.md",
     "Clippings",
@@ -237,9 +257,6 @@
     "Meals/Dinner/Hot Tamale Pie.md",
     "Storage/Storage index.md",
     "Meals/My Mom&#39;s Hamburger and Potato Soup.md",
-    "Storage/Rice and Grains.md",
-    "pantry/Shopping List.md",
-    "Meals/Soups/Hearty Minestrone Soup.md",
     "ReadItLater Inbox",
     "Meals/Dinner",
     "assets/grocy-pics/stock-overview.png",

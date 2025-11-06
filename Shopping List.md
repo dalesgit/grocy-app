@@ -1,7 +1,7 @@
 https://forum.obsidian.md/t/dataview-list-of-files-as-checklist/44807
 
 ```dataview
-TASK WHERE completed
+TASK WHERE completed AND contains(tags, "#pantry")
 ```
 
 To create a checklist in Obsidian using Dataview, you can use theÂ `TASK`Â query type to generate an interactive list of tasks, which can function as a checklist. This is particularly useful for managing to-do items that are marked with a checkbox syntax (e.g.,Â `- [ ] Task`) in your notes.Â For example, a basic query to list all incomplete tasks is:

@@ -43,5 +43,23 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
   ]
 }

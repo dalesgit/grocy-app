@@ -2,82 +2,82 @@
 tags:
   - pantry
 ---
-- [ ] cinnamon
-- regular salt
-- Kosher salt
-- Pepper shaker
-- Almond extract
-- Anise extract
-- Vanilla extract
-- Sliced pepperoni
-- Bay leaves
-- Rosemary
-- Garam masala
-- Dillweed
-- Nutmeg
-- Sage
-- Fennel
-- Zaatar
-- Ground mustard
-- Basil,
-- Oregano
-- Paprika
-- Time
-- Bay leaves
-- Chinese five spice
-- Cardamom
-- Chipotle
-- Cayenne
-- Italian seasoning
-- Cumin
-- Coriander
-- Turmeric
-- Cream of tartar
-- Poultry seasoning
-- Celery seed
-- Caraway seeds
-- Justice space
+- [x] cinnamon
+- [x] regular salt
+- [x] Kosher salt
+- [x] Pepper shaker
+- [x] Almond extract
+- [x] Anise extract
+- [x] Vanilla extract
+- [x] Sliced pepperoni
+- [x] Bay leaves
+- [x] Rosemary
+- [x] Garam masala
+- [x] Dillweed
+- [x] Nutmeg
+- [x] Sage
+- [x] Fennel
+- [x] Zaatar
+- [x] Ground mustard
+- [x] Basil,
+- [x] Oregano
+- [x] Paprika
+- [x] Time
+- [x] Bay leaves
+- [x] Chinese five spice
+- [x] Cardamom
+- [x] Chipotle
+- [x] Cayenne
+- [x] Italian seasoning
+- [x] Cumin
+- [x] Coriander
+- [x] Turmeric
+- [x] Cream of tartar
+- [x] Poultry seasoning
+- [x] Celery seed
+- [x] Caraway seeds
+- [x] Justice space
 
 ---
 
-- Cinnamon sticks 
-- Fenugreek seeds 
-- cardamom
-- Herb de Provonce
-- Lemon pepper
-- Celery seed
-- Curry powder
-- Chili powder
-- Cumin seed
-- Everything bagel
-- Fancy clothes
-- Vietnamese cinnamon
-- Ground cinnamon
-- Ground cinnamon
-- Onion powder
-- Ground sumac
-- Seasoned salt
-- Garlic salt
-- Garlic powder
-- Ground ginger
-- Crushed red pepper
-- Garlic powder
-- Sesame seed
-- Black peppercorns
-- White pepper
-- Allspice
+- [x] Cinnamon sticks 
+- [x] Fenugreek seeds 
+- [x] cardamom
+- [x] Herb de Provonce
+- [x] Lemon pepper
+- [x] Celery seed
+- [x] Curry powder
+- [x] Chili powder
+- [x] Cumin seed
+- [x] Everything bagel
+- [x] Fancy clothes
+- [x] Vietnamese cinnamon
+- [x] Ground cinnamon
+- [x] Ground cinnamon
+- [x] Onion powder
+- [x] Ground sumac
+- [x] Seasoned salt
+- [x] Garlic salt
+- [x] Garlic powder
+- [x] Ground ginger
+- [x] Crushed red pepper
+- [x] Garlic powder
+- [x] Sesame seed
+- [x] Black peppercorns
+- [x] White pepper
+- [x] Allspice
 
 ---
 
-- Chopped garlic
-- Onion soup
-- Matzo ball mix
-- Tapioca
-- Chili powder
-- Paprika
-- Beef bouillon
-- Ground cumin
-- Chicken bouillon
-- Cayenne pepper
-- Dried Cranberries
-- Chicken, bouillon jar
+- [x] Chopped garlic
+- [x] Onion soup
+- [x] Matzo ball mix
+- [x] Tapioca
+- [x] Chili powder
+- [x] Paprika
+- [x] Beef bouillon
+- [x] Ground cumin
+- [x] Chicken bouillon
+- [x] Cayenne pepper
+- [x] Dried Cranberries
+- [x] Chicken, bouillon jar

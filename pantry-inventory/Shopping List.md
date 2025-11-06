@@ -6,11 +6,11 @@ tags:
 - [x] chopped onion 0.75 cup 
 - [x] chopped carrots 0.5 cup 
 - [x] (32 ounce) container chicken broth 1  
-- [ ] chopped celery 0.25 cup 
-- [ ] (19 ounce) can cannellini beans 1  
-- [ ] (14.5 ounce) can stewed tomatoes 1  
-- [ ] cubed potatoes 1.5 cups 
-- [ ] shredded cabbage 0.5 cup 
+- [x] chopped celery 0.25 cup 
+- [x] (19 ounce) can cannellini beans 1  
+- [x] (14.5 ounce) can stewed tomatoes 1  
+- [x] cubed potatoes 1.5 cups
+- [x] shredded cabbage 0.5 cup
 - [x] dried parsley 2 tablespoons 
 - [x] tomato paste 1 tablespoon 
 - [x] garlic, minced 2 cloves 

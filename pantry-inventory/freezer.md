@@ -3,61 +3,61 @@ tags:
   - pantry
 ---
 
-[cooked chix tenders ✅ 2025-11-02
-Blueberries ✅ 2025-11-02
-Soup ✅ 2025-11-02
-soup ✅ 2025-11-02
+[cooked chix tenders 
+Blueberries 
+Soup 
+soup 
 Shrimp ✅ 2025-11-0
-Sweet potato fries ✅ 2025-11-02
-Banana bread ✅ 2025-11-02
+Sweet potato fries 
+Banana bread 
 Shrimp 
-Butter ✅ 2025-11-02
-Naan ✅ 2025-11-02
-Pasta sauce ✅ 2025-11-02
-Empanada dough ✅ 2025-11-02
-Bread ✅ 2025-11-02
+Butter 
+Naan 
+Pasta sauce 
+Empanada dough 
+Bread 
 meatballs
-Meatballs ✅ 2025-11-02
-Chicken wings ✅ 2025-11-02
-Pork fried rice ✅ 2025-11-02
-Chicken wings ✅ 2025-11-02
+Meatballs 
+Chicken wings 
+Pork fried rice 
+Chicken wings 
 Chx Breast strips
-Paneer ✅ 2025-11-02
-Naan ✅ 2025-11-02
-Naan ✅ 2025-11-02
-naan ✅ 2025-11-02
-Pasta fag soup ✅ 2025-11-02
-Pork gravy ✅ 2025-11-02
-Pork tender cooked ✅ 2025-11-02
+Paneer 
+Naan 
+Naan 
+naan 
+Pasta fag soup 
+Pork gravy 
+Pork tender cooked 
 Pork fried rice
-Pork tenderloin ✅ 2025-11-02
-[x]]() Ground beef ✅ 2025-11-02
+Pork tenderloin 
+[x]]() Ground beef 
 Peppers in adobo
 Pork tenders
 Pork chops
-Thick boneless pork ✅ 2025-11-02
-Salmon ✅ 2025-11-02
+Thick boneless pork 
+Salmon 
 Chicken thigh marinated
-Broccoli, florettes, ✅ 2025-11-02
-Broccoli ✅ 2025-11-02
-Pasta fag stuff ✅ 2025-11-02
-green peas ✅ 2025-11-02
-Cranberries ✅ 2025-11-02
-Green beans ✅ 2025-11-02
-Corn ✅ 2025-11-02
-Crushed tomatoes ✅ 2025-11-02
-Cherries ✅ 2025-11-02
-SeedsSeeds ✅ 2025-11-02
+Broccoli, florettes, 
+Broccoli 
+Pasta fag stuff 
+green peas 
+Cranberries 
+Green beans 
+Corn 
+Crushed tomatoes 
+Cherries 
+SeedsSeeds 
 Strawberries
 Bread ✅ 2025-11-06
 Soup
-Air fry meatloaf ✅ 2025-11-02
-Spinach feta pie ✅ 2025-11-02
-Stuffed scallops ✅ 2025-11-02
-Hamburger buns ✅ 2025-11-02
-Butter ✅ 2025-11-02
-Hamburger buns ✅ 2025-11-02
-Mini bars ✅ 2025-11-02
+Air fry meatloaf 
+Spinach feta pie 
+Stuffed scallops 
+Hamburger buns 
+Butter 
+Hamburger buns 
+Mini bars 
 Bananas
 Banana bread
 Mochi

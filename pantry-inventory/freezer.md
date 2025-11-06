@@ -3,61 +3,61 @@ tags:
   - pantry
 ---
 
-[cooked chix tenders 
-Blueberries 
-Soup 
-soup 
-Shrimp ✅ 2025-11-0
-Sweet potato fries 
-Banana bread 
-Shrimp 
-Butter 
-Naan 
-Pasta sauce 
-Empanada dough 
-Bread 
-meatballs
-Meatballs 
-Chicken wings 
-Pork fried rice 
-Chicken wings 
-Chx Breast strips
-Paneer 
-Naan 
-Naan 
-naan 
-Pasta fag soup 
-Pork gravy 
-Pork tender cooked 
-Pork fried rice
-Pork tenderloin 
-[x]]() Ground beef 
-Peppers in adobo
-Pork tenders
-Pork chops
-Thick boneless pork 
-Salmon 
-Chicken thigh marinated
-Broccoli, florettes, 
-Broccoli 
-Pasta fag stuff 
-green peas 
-Cranberries 
-Green beans 
-Corn 
-Crushed tomatoes 
-Cherries 
-SeedsSeeds 
-Strawberries
-Bread ✅ 2025-11-06
-Soup
-Air fry meatloaf 
-Spinach feta pie 
-Stuffed scallops 
-Hamburger buns 
-Butter 
-Hamburger buns 
-Mini bars 
-Bananas
-Banana bread
-Mochi
+- [x] cooked chix tenders 
+- [x] Blueberries 
+- [x] Soup 
+- [x] soup 
+- [x] Shrimp 
+- [x] Sweet potato fries 
+- [x] Banana bread 
+- [x] Shrimp 
+- [x] Butter 
+- [x] Naan 
+- [x] Pasta sauce 
+- [x] Empanada dough 
+- [x] Bread 
+- [x] meatballs
+- [x] Meatballs 
+- [x] Chicken wings 
+- [x] Pork fried rice 
+- [x] Chicken wings 
+- [x] Chx Breast strips
+- [x] Paneer 
+- [x] Naan 
+- [x] Naan 
+- [x] naan 
+- [x] Pasta fag soup 
+- [x] Pork gravy 
+- [x] Pork tender cooked 
+- [x] Pork fried rice
+- [x] Pork tenderloin 
+- [x] [x]]() Ground beef 
+- [x] Peppers in adobo
+- [x] Pork tenders
+- [x] Pork chops
+- [x] Thick boneless pork 
+- [x] Salmon 
+- [x] Chicken thigh marinated
+- [x] Broccoli, florettes, 
+- [x] Broccoli 
+- [x] Pasta fag stuff 
+- [x] green peas 
+- [x] Cranberries 
+- [x] Green beans 
+- [x] Corn 
+- [x] Crushed tomatoes 
+- [x] Cherries 
+- [x] SeedsSeeds 
+- [x] Strawberries
+- [x] Bread
+- [x] Soup
+- [x] Air fry meatloaf 
+- [x] Spinach feta pie 
+- [x] Stuffed scallops 
+- [x] Hamburger buns 
+- [x] Butter 
+- [x] Hamburger buns 
+- [x] Mini bars 
+- [x] Bananas
+- [x] Banana bread
+- [x] Mochi

@@ -16,6 +16,8 @@ tags:
 
 A well-stocked spice rack is a must for every home cook! Here are the 16 Spice Rack Essentials I keep in my kitchen all of the time to make cooking easier and tastier.
 
+Handy as starter.
+
 ![16 Spice Rack Essentials](https://www.asavoryfeast.com/wp-content/uploads/2014/10/15424234067_664bfc09ba_h1.jpg)
 
 16 Spice Rack Essentials

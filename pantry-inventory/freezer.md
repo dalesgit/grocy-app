@@ -6,8 +6,8 @@ tags:
 - [ ] cooked chix tenders 
 - [x] cooked chix tenders 
 - [x] Blueberries 
-- [x] Soup 
-- [x] soup 
+- [ ] Soup 
+- [ ] soup 
 - [x] Shrimp 
 - [x] Sweet potato fries 
 - [x] Banana bread 

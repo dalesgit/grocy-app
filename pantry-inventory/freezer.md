@@ -3,63 +3,63 @@ tags:
   - pantry
 ---
 
-- [ ] cooked chix tenders 
-- [x] cooked chix tenders 
-- [x] Blueberries 
+- [ ] Pasta fag soup
 - [ ] Soup 
+- [ ] cooked chix tenders 
 - [ ] soup 
-- [x] Shrimp 
-- [x] Sweet potato fries 
+- [x] Air fry meatloaf 
+- [x] Banana bread
 - [x] Banana bread 
-- [x] Shrimp 
-- [x] Butter 
-- [x] Naan 
-- [x] Pasta sauce 
-- [x] Empanada dough 
+- [x] Bananas
+- [x] Blueberries 
+- [x] Bread
 - [x] Bread 
-- [x] meatballs
-- [x] Meatballs 
+- [x] Broccoli 
+- [x] Broccoli, florettes, 
+- [x] Butter 
+- [x] Butter 
+- [x] Cherries 
+- [x] Chicken thigh marinated
 - [x] Chicken wings 
-- [x] Pork fried rice 
 - [x] Chicken wings 
 - [x] Chx Breast strips
+- [x] Corn 
+- [x] Cranberries 
+- [x] Crushed tomatoes 
+- [x] Empanada dough 
+- [x] Green beans 
+- [x] Hamburger
+- [x] Hamburger buns 
+- [x] Hamburger buns 
+- [x] Meatballs 
+- [x] Mini bars 
+- [x] Mochi
+- [x] Naan 
+- [x] Naan 
+- [x] Naan 
 - [x] Paneer 
-- [x] Naan 
-- [x] Naan 
-- [x] naan 
 - [x] Pasta fag soup 
+- [x] Pasta sauce 
+- [x] Peppers in adobo
+- [x] Pork chops
+- [x] Pork fried rice
+- [x] Pork fried rice 
 - [x] Pork gravy 
 - [x] Pork tender cooked 
-- [x] Pork fried rice
 - [x] Pork tenderloin 
-- [x] [x]]() Ground beef 
-- [x] Peppers in adobo
 - [x] Pork tenders
-- [x] Pork chops
-- [x] Thick boneless pork 
 - [x] Salmon 
-- [x] Chicken thigh marinated
-- [x] Broccoli, florettes, 
-- [x] Broccoli 
-- [ ] Pasta fag soup
-- [x] green peas 
-- [x] Cranberries 
-- [x] Green beans 
-- [x] Corn 
-- [x] Crushed tomatoes 
-- [x] Cherries 
 - [x] SeedsSeeds 
-- [x] Strawberries
-- [x] Bread
+- [x] Shrimp 
+- [x] Shrimp 
 - [x] Soup
-- [x] Air fry meatloaf 
 - [x] Spinach feta pie 
+- [x] Strawberries
 - [x] Stuffed scallops 
-- [x] Hamburger buns 
-- [x] Butter 
-- [ ] Hamburger
-- [x] Hamburger buns 
-- [x] Mini bars 
-- [x] Bananas
-- [x] Banana bread
-- [x] Mochi
+- [x] Sweet potato fries 
+- [x] Thick boneless pork 
+- [x] [x]]() Ground beef 
+- [x] cooked chix tenders 
+- [x] green peas 
+- [x] meatballs
+- [x] naan 

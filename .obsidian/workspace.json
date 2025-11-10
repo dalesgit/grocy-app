@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8acf58c6b79e6b86",
+        "id": "0b59eb6f49aab3ec",
         "type": "tabs",
         "children": [
           {
-            "id": "37e3eb1167b18d44",
+            "id": "8622c2a539394e0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pantry-inventory/freezer.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "freezer"
+              "title": "New tab"
             }
           }
         ]
@@ -190,6 +186,8 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "37e3eb1167b18d44",
-  "lastOpenFiles": []
+  "active": "8622c2a539394e0d",
+  "lastOpenFiles": [
+    "pantry-inventory/freezer.md"
+  ]
 }

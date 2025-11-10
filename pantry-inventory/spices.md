@@ -1,81 +1,81 @@
 --- tags: - pantry --- <<<<<<< HEAD - [ ] cinnamon =======
-- [x] cinnamon
-- [x] regular salt
-- [x] Kosher salt
-- [x] Pepper shaker
 - [x] Almond extract
 - [x] Anise extract
-- [x] Vanilla extract
-- [x] Sliced pepperoni
-- [x] Bay leaves
-- [x] Rosemary
-- [x] Garam masala
-- [x] Dillweed
-- [x] Nutmeg
-- [x] Sage
-- [x] Fennel
-- [x] Zaatar
-- [x] Ground mustard
 - [x] Basil,
+- [x] Bay leaves
+- [x] Bay leaves
+- [x] Caraway seeds
+- [x] Cardamom
+- [x] Cayenne
+- [x] Celery seed
+- [x] Chinese five spice
+- [x] Chipotle
+- [x] Coriander
+- [x] Cream of tartar
+- [x] Cumin
+- [x] Dillweed
+- [x] Fennel
+- [x] Garam masala
+- [x] Ground mustard
+- [x] Italian seasoning
+- [x] Justice space
+- [x] Kosher salt
+- [x] Nutmeg
 - [x] Oregano
 - [x] Paprika
-- [x] Time
-- [x] Bay leaves
-- [x] Chinese five spice
-- [x] Cardamom
-- [x] Chipotle
-- [x] Cayenne
-- [x] Italian seasoning
-- [x] Cumin
-- [x] Coriander
-- [x] Turmeric
-- [x] Cream of tartar
+- [x] Pepper shaker
 - [x] Poultry seasoning
-- [x] Celery seed
-- [x] Caraway seeds
-- [x] Justice space
+- [x] Rosemary
+- [x] Sage
+- [x] Sliced pepperoni
+- [x] Time
+- [x] Turmeric
+- [x] Vanilla extract
+- [x] Zaatar
+- [x] cinnamon
+- [x] regular salt
 
 ---
 
-- [x] Cinnamon sticks 
-- [x] Fenugreek seeds 
-- [x] cardamom
-- [x] Herb de Provonce
-- [x] Lemon pepper
+- [x] Allspice
+- [x] Black peppercorns
 - [x] Celery seed
-- [x] Curry powder
 - [x] Chili powder
+- [x] Cinnamon sticks 
+- [x] Crushed red pepper
 - [x] Cumin seed
+- [x] Curry powder
 - [x] Everything bagel
 - [x] Fancy clothes
-- [x] Vietnamese cinnamon
-- [x] Ground cinnamon
-- [x] Ground cinnamon
-- [x] Onion powder
-- [x] Ground sumac
-- [x] Seasoned salt
+- [x] Fenugreek seeds 
+- [x] Garlic powder
+- [x] Garlic powder
 - [x] Garlic salt
-- [x] Garlic powder
+- [x] Ground cinnamon
+- [x] Ground cinnamon
 - [x] Ground ginger
-- [x] Crushed red pepper
-- [x] Garlic powder
+- [x] Ground sumac
+- [x] Herb de Provonce
+- [x] Lemon pepper
+- [x] Onion powder
+- [x] Seasoned salt
 - [x] Sesame seed
-- [x] Black peppercorns
+- [x] Vietnamese cinnamon
 - [x] White pepper
-- [x] Allspice
+- [x] cardamom
 
 ---
 
-- [x] Chopped garlic
-- [x] Onion soup
-- [x] Matzo ball mix
-- [x] Tapioca
-- [x] Chili powder
-- [x] Paprika
 - [x] Beef bouillon
-- [x] Ground cumin
-- [x] Chicken bouillon
 - [x] Cayenne pepper
-- [x] Dried Cranberries
+- [x] Chicken bouillon
 - [x] Chicken, bouillon jar
+- [x] Chili powder
+- [x] Chopped garlic
+- [x] Dried Cranberries
+- [x] Ground cumin
+- [x] Matzo ball mix
+- [x] Onion soup
+- [x] Paprika
+- [x] Tapioca
 

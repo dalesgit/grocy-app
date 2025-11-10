@@ -2,24 +2,24 @@
 tags:
   - pantry
 ---
-- [x] Pasta
-- [x] Corned beef
-- [x] Onions
 - [x] Bean sprouts
 - [x] Canned tuna
-- [x] Refried beans
-- [x] Tomato paste
-- [x] Condensed milk
 - [x] Coconut milk
-- [x] Spam
-- [x] Cream of mushroom soup
-- [x] Tomato sauce
+- [x] Condensed milk
+- [x] Corned beef
 - [x] Cream of chicken soup
-- [x] Sweet corn
-- [x] Stewed tomatoes
-- [x] Pumpkin pie filling
-- [x] Ramen
-- [x] Various pastas
+- [x] Cream of mushroom soup
 - [x] Crushed tomato
 - [x] Evaporated milk
+- [x] Onions
+- [x] Pasta
+- [x] Pumpkin pie filling
+- [x] Ramen
+- [x] Refried beans
 - [x] Rice spaghetti
+- [x] Spam
+- [x] Stewed tomatoes
+- [x] Sweet corn
+- [x] Tomato paste
+- [x] Tomato sauce
+- [x] Various pastas

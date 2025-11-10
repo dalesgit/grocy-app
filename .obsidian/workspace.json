@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pantry-inventory/refrigerator.md",
+                "file": "pantry-inventory/Storage 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "refrigerator"
+              "title": "Storage 2"
             }
           }
         ]
@@ -190,8 +190,15 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "d531e95093c25a2f",
+  "active": "8622c2a539394e0d",
   "lastOpenFiles": [
+    "pantry-inventory/Storage 2.md~",
+    "pantry-inventory/storage.md",
+    "pantry-inventory/storage.md~",
+    "pantry-inventory/spices.md",
+    "pantry-inventory/spices.md~",
+    "pantry-inventory/refrigerator.md",
+    "pantry-inventory/refrigerator.md~",
     "pantry-inventory/Shopping List-dataview.md",
     "pantry-inventory/Shopping List.md",
     "pantry-inventory/freezer.md"

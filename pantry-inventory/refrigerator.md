@@ -2,60 +2,60 @@
 tags:
   - pantry
 ---
-- [x] Mozzarella cheese
-- [x] Shredded cheese
-- [x] Parmesan cheese
-- [x] String cheese
-- [x] Tomatoes
-- [x] Onions
-- [x] Color
 - [ ] Celery
-- [x] Lettuce
-- [ ] MushroomsMushrooms
-- [x] Red onions
-- [x] Greek yogurt
 - [ ] Cottage cheese
-- [x] Cottage cheese
-- [x] Feta crumbles
-- [x] Ranch dressing
-- [x] Dill relish
 - [ ] Dill pickles
-- [x] Dried tomatoes
-- [x] Ricotta
-- [x] Pie crust
-- [x] Salmon fillet
-- [x] Blue cheese
-- [x] Tahini
-- [x] Hard boiled eggs
 - [ ] Eggs
-- [x] Milk
-- [x] Butter
+- [ ] Mushrooms
 - [ ] tub butter
-- [x] Hoisin
-- [x] Sriracha
-- [x] Fish sauce
-- [x] Roasted bell pepper
-- [x] Olives
-- [x] Jalapeños
-- [x] Mild banana peppers
-- [x] Capers
-- [x] Pesto
-- [x] Lemon juice
-- [x] Salsa
-- [x] Garlic, minced
-- [x] Jam
-- [x] Italian dressing
-- [x] Yeast
-- [x] Whole grain mustard, 
-- [x] maple syrup
-- [x] Cocktail sauce
-- [x] Vidalia barbecue sauce
-- [x] Chili garlic sauce
-- [x] Red curry paste
-- [x] Pickled ginger
-- [x] Ketchup
-- [x] Lime juice
-- [x] Mustard
-- [x] Mayonnaise
+- [x] Blue cheese
 - [x] Blue cheese dressing
+- [x] Butter
+- [x] Capers
+- [x] Chili garlic sauce
+- [x] Cocktail sauce
+- [x] Color
+- [x] Cottage cheese
+- [x] Dill relish
+- [x] Dried tomatoes
+- [x] Feta crumbles
+- [x] Fish sauce
+- [x] Garlic, minced
+- [x] Greek yogurt
+- [x] Hard boiled eggs
+- [x] Hoisin
+- [x] Italian dressing
+- [x] Jalapeños
+- [x] Jam
+- [x] Ketchup
+- [x] Lemon juice
+- [x] Lettuce
+- [x] Lime juice
+- [x] Mayonnaise
+- [x] Mild banana peppers
+- [x] Milk
+- [x] Mozzarella cheese
+- [x] Mustard
+- [x] Olives
+- [x] Onions
+- [x] Parmesan cheese
+- [x] Pesto
+- [x] Pickled ginger
+- [x] Pie crust
+- [x] Ranch dressing
+- [x] Red curry paste
+- [x] Red onions
+- [x] Ricotta
+- [x] Roasted bell pepper
+- [x] Salmon fillet
+- [x] Salsa
+- [x] Shredded cheese
 - [x] Soy sauce
+- [x] Sriracha
+- [x] String cheese
+- [x] Tahini
+- [x] Tomatoes
+- [x] Vidalia barbecue sauce
+- [x] Whole grain mustard, 
+- [x] Yeast
+- [x] maple syrup

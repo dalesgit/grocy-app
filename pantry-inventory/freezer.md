@@ -41,7 +41,7 @@ tags:
 - [x] Chicken thigh marinated
 - [x] Broccoli, florettes, 
 - [x] Broccoli 
-- [x] Pasta fag stuff 
+- [ ] Pasta fag soup
 - [x] green peas 
 - [x] Cranberries 
 - [x] Green beans 

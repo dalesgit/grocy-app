@@ -11,10 +11,14 @@
             "id": "8622c2a539394e0d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pantry-inventory/refrigerator.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "refrigerator"
             }
           }
         ]
@@ -186,8 +190,10 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "8622c2a539394e0d",
+  "active": "d531e95093c25a2f",
   "lastOpenFiles": [
+    "pantry-inventory/Shopping List-dataview.md",
+    "pantry-inventory/Shopping List.md",
     "pantry-inventory/freezer.md"
   ]
 }

@@ -24,4 +24,42 @@ If you want to list tasks from specific headings within a note, you can use the�
 TASK WHERE econtains(list("Brain Dump", "6 Priorities", "Life", "Family", "Work", "Health"), meta(header).subpath) AND !completed
 ```
 
-This query retrieves all incomplete tasks located under the specified headings across your notes.Â You can also group tasks by their originating file usingÂ `GROUP BY file.link`, which helps organize your checklist by source note.Â Additionally, you can useÂ `LIST`Â orÂ `TABLE`Â query types to display tasks or other data in different formats, butÂ `TASK`Â is specifically designed for interactive checklists
+This query retrieves all incomplete tasks located under the specified headings across your notes.Â You can also group tasks by their originating file usingÂ `GROUP BY file.link`, which helps organize your checklist by source note.Â Additionally, you can useÂ `LIST`Â orÂ `TABLE`Â query types to display tasks or other
+
+- [ ] ## extra
+- Pagels book
+- gifts for Scott
+- check on delivery Wednesday
+- [ ] Strength chord
+## clothes
+
+- [ ] semi-formal
+- [ ] sleep
+- [ ] lounge
+- biking shoes
+
+## bathroom
+
+- [ ] cf. previous 
+
+## tech
+
+- [ ] hearing aids
+- [ ] which computer? charger
+- [ ] bedside cords
+- bike stuff: stool, front bag, helmet, pump
+- tablet, e-screen, acer, phone
+- journal
+
+## kitchen
+
+- coffee & filters
+- wine & cork screw
+- snacks
+- cooling pack for mounjaro
+- cooling pack for cooler
+- cheese sticks
+- hard-boiled eggs?
+- cheese
+- trail mix
+ data in different formats, butÂ `TASK`Â is specifically designed for interactive checklists

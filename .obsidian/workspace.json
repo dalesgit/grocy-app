@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pantry-inventory/Storage 2.md",
+                "file": "pantry-inventory/Shopping List-dataview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Storage 2"
+              "title": "Shopping List-dataview"
             }
           }
         ]
@@ -154,12 +154,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
             "id": "89e00e8375f5a95c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "1e6a42a062393ec3",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -169,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -192,6 +202,7 @@
   },
   "active": "8622c2a539394e0d",
   "lastOpenFiles": [
+    "pantry-inventory/Storage 2.md",
     "pantry-inventory/Storage 2.md~",
     "pantry-inventory/storage.md",
     "pantry-inventory/storage.md~",

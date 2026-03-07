@@ -174,12 +174,22 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "0034890fad24c2d1",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -200,7 +210,7 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "8622c2a539394e0d",
+  "active": "0034890fad24c2d1",
   "lastOpenFiles": [
     "pantry-inventory/Storage 2.md",
     "pantry-inventory/Storage 2.md~",

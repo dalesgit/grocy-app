@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Shopping List-dataview"
             }
+          },
+          {
+            "id": "02c45181449a18a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meals/Vegetable Beef Soup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vegetable Beef Soup"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,8 +225,10 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "0034890fad24c2d1",
+  "active": "02c45181449a18a6",
   "lastOpenFiles": [
+    "pantry-inventory/Shopping List-dataview.md",
+    "Meals/Vegetable Beef Soup.md",
     "pantry-inventory/Storage 2.md",
     "pantry-inventory/Storage 2.md~",
     "pantry-inventory/storage.md",
@@ -220,7 +237,6 @@
     "pantry-inventory/spices.md~",
     "pantry-inventory/refrigerator.md",
     "pantry-inventory/refrigerator.md~",
-    "pantry-inventory/Shopping List-dataview.md",
     "pantry-inventory/Shopping List.md",
     "pantry-inventory/freezer.md"
   ]

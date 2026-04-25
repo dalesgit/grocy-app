@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Vegetable Beef Soup"
             }
+          },
+          {
+            "id": "34bd6ef56d958466",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,7 +237,7 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "02c45181449a18a6",
+  "active": "34bd6ef56d958466",
   "lastOpenFiles": [
     "pantry-inventory/Shopping List-dataview.md",
     "Meals/Vegetable Beef Soup.md",
